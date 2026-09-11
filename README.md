@@ -9,7 +9,11 @@
 </p>
 
 <p align="center">
-  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logoColor=ffffff) ![TypeScript](https://img.shields.io/badge/TypeScript-1f2937?style=for-the-badge&logoColor=3178C6) ![GSAP](https://img.shields.io/badge/GSAP-111827?style=for-the-badge&logoColor=88CE02) ![Tailwind](https://img.shields.io/badge/Tailwind-0f172a?style=for-the-badge&logoColor=38BDF8) ![UX](https://img.shields.io/badge/UX-18181b?style=for-the-badge&logoColor=f59e0b)
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=ffffff" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/TypeScript-1F2937?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/GSAP-111827?style=for-the-badge&logo=greensock&logoColor=88CE02" alt="GSAP"/>
+  <img src="https://img.shields.io/badge/Tailwind-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/UX-18181B?style=for-the-badge&logoColor=F59E0B" alt="UX"/>
 </p>
 
 > **Status:** Projeto comercial desenvolvido para apresentação — sem exposição de código proprietário.
